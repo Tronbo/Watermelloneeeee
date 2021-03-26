@@ -1,0 +1,15 @@
+/Users/eddyzhu/Desktop/Big-Folder/Code/C#/Code-Forces-Coding-Challenge/4A-Watermelon/bin/Debug/net5.0/4A-Watermelon.deps.json
+/Users/eddyzhu/Desktop/Big-Folder/Code/C#/Code-Forces-Coding-Challenge/4A-Watermelon/bin/Debug/net5.0/4A-Watermelon.runtimeconfig.json
+/Users/eddyzhu/Desktop/Big-Folder/Code/C#/Code-Forces-Coding-Challenge/4A-Watermelon/bin/Debug/net5.0/4A-Watermelon.runtimeconfig.dev.json
+/Users/eddyzhu/Desktop/Big-Folder/Code/C#/Code-Forces-Coding-Challenge/4A-Watermelon/bin/Debug/net5.0/4A-Watermelon.dll
+/Users/eddyzhu/Desktop/Big-Folder/Code/C#/Code-Forces-Coding-Challenge/4A-Watermelon/bin/Debug/net5.0/ref/4A-Watermelon.dll
+/Users/eddyzhu/Desktop/Big-Folder/Code/C#/Code-Forces-Coding-Challenge/4A-Watermelon/bin/Debug/net5.0/4A-Watermelon.pdb
+/Users/eddyzhu/Desktop/Big-Folder/Code/C#/Code-Forces-Coding-Challenge/4A-Watermelon/obj/Debug/net5.0/4A-Watermelon.csprojAssemblyReference.cache
+/Users/eddyzhu/Desktop/Big-Folder/Code/C#/Code-Forces-Coding-Challenge/4A-Watermelon/obj/Debug/net5.0/4A-Watermelon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eddyzhu/Desktop/Big-Folder/Code/C#/Code-Forces-Coding-Challenge/4A-Watermelon/obj/Debug/net5.0/4A-Watermelon.AssemblyInfoInputs.cache
+/Users/eddyzhu/Desktop/Big-Folder/Code/C#/Code-Forces-Coding-Challenge/4A-Watermelon/obj/Debug/net5.0/4A-Watermelon.AssemblyInfo.cs
+/Users/eddyzhu/Desktop/Big-Folder/Code/C#/Code-Forces-Coding-Challenge/4A-Watermelon/obj/Debug/net5.0/4A-Watermelon.csproj.CoreCompileInputs.cache
+/Users/eddyzhu/Desktop/Big-Folder/Code/C#/Code-Forces-Coding-Challenge/4A-Watermelon/obj/Debug/net5.0/4A-Watermelon.dll
+/Users/eddyzhu/Desktop/Big-Folder/Code/C#/Code-Forces-Coding-Challenge/4A-Watermelon/obj/Debug/net5.0/ref/4A-Watermelon.dll
+/Users/eddyzhu/Desktop/Big-Folder/Code/C#/Code-Forces-Coding-Challenge/4A-Watermelon/obj/Debug/net5.0/4A-Watermelon.pdb
+/Users/eddyzhu/Desktop/Big-Folder/Code/C#/Code-Forces-Coding-Challenge/4A-Watermelon/obj/Debug/net5.0/4A-Watermelon.genruntimeconfig.cache
