@@ -8,7 +8,7 @@ namespace _4A_Watermelon
         {
             int melonWeight = Convert.ToInt16(Console.ReadLine());
 
-            if(melonWeight >= 1 && melonWeight <= 100 && melonWeight % 2 == 0){
+            if(melonWeight >= 1 && melonWeight <= 100 && melonWeight % 2 == 0 && melonWeight == 2){
                 Console.WriteLine("True");
             }else{
             Console.WriteLine("False");
